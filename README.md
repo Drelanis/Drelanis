@@ -1,4 +1,4 @@
-## Hi there, I'm Denys BADAKA 👋
+# Hi there, I'm Denys BADAKA 👋
 
 ## I'm a Full Stack JS Developer!
 
