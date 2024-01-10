@@ -4,6 +4,9 @@
 
 ## I'm a Full Stack JS Developer!
 
+## Interests
+- :badminton: playing badminton
+- :mountain_snow: hiking
 
 ## Languages and Tools:
 <div >
