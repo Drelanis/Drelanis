@@ -26,3 +26,5 @@
 ## 📈 My github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Drelanis&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://u24.gov.ua/)
