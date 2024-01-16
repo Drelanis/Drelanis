@@ -5,6 +5,11 @@
 ## Interests
 - :badminton: playing badminton
 - :mountain_snow: hiking
+- :computer: I’m currently learning everything related to JS
+
+## Connect with me:
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/denys-badaka-319b412aa/)
 
 ## Languages and Tools:
 <div >
@@ -21,10 +26,6 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 </div>
-
-## Connect with me:
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/denys-badaka-319b412aa/)
 
 ## 📈 My github stats
 
