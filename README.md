@@ -8,8 +8,8 @@
 - :computer: I’m currently learning everything related to JS
 
 ## Connect with me:
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/denys-badaka-319b412aa/)
+[![Linkedin Badge](https://img.shields.io/badge/Denys_Badaka-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-badaka-319b412aa/) 
+[![Mail Badge](https://img.shields.io/badge/Denys_Badaka-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:denysbadaka@gmail.com)
 
 ## Languages and Tools:
 <div >
@@ -30,5 +30,6 @@
 ## 📈 My github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Drelanis&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drelanis&layout=compact&&langs_count=8"/>
 
 [![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://u24.gov.ua/)
