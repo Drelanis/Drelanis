@@ -27,6 +27,12 @@
   <img height="48" width="48" src="https://avatars.githubusercontent.com/u/12504344" alt="Expo"/>
 </div>
 
+### 🧩 Add-ons and Extensions Development
+<div style="display:flex; gap:5px">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Microsoft" width="48" height="48"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888846.png" alt="Chrome" width="48" height="48"/>
+</div>
+
 ### 🎨 User Interface:
 <div style="display:flex; gap:5px">
   <img src="https://skillicons.dev/icons?i=html,css,sass,styledcomponents,bootstrap,mui" alt="User interface" />
