@@ -51,8 +51,6 @@
 <img src="https://skillicons.dev/icons?i=npm,yarn,postman,git,figma" alt="Other" />
 
 ## ℹ️ Profile info:
-<img src="https://komarev.com/ghpvc/?username=andrewzinko&label=Profile%20views&color=0e75b6&style=flat" alt="drelanis" />
-
 [![Linkedin Badge](https://img.shields.io/badge/Denys_Badaka-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-badaka-319b412aa/) 
 [![Mail Badge](https://img.shields.io/badge/Denys_Badaka-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:denysbadaka@gmail.com)
 
