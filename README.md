@@ -19,6 +19,9 @@
   <img src="https://skillicons.dev/icons?i=nest,nodejs,express,graphql,prisma" alt="Backend" />
   <img height="48" width="48" src="https://avatars.githubusercontent.com/u/20165699" alt="TypeORM" />
   <img height="48" width="48" src="https://avatars.githubusercontent.com/u/10490573" alt="Knex.js" />
+  <a href="https://github.com/Automattic/mongoose" target="_blank">
+  <img height="48" width="48" src="https://avatars.githubusercontent.com/u/887802" alt="Mongoose" />
+  </a>
 </div>
 
 ### 📱 Mobile App Development:
