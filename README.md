@@ -42,6 +42,13 @@
   <img height="48" width="48" src="https://avatars.githubusercontent.com/u/120183344" alt="Gluestack"/>
 </div>
 
+### ✅ Testing libraries:
+<div style="display:flex; gap:5px">
+  <img src="https://skillicons.dev/icons?i=jest" alt="Testing libraries" />
+  <img height="48" width="48" src="https://avatars.githubusercontent.com/u/49996085" alt="React Testing Library"/>
+  <img height="48" width="48" src="https://avatars.githubusercontent.com/u/22632046" alt="Storybook"/>
+</div>
+
 ### ⚙️ Build tools:
 <div style="display:flex; gap:5px">
   <img src="https://skillicons.dev/icons?i=webpack" alt="Build tools" />
