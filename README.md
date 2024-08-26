@@ -34,6 +34,7 @@
 <div style="display:flex; gap:5px">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Microsoft" width="48" height="48"/>
   <img src="https://cdn-icons-png.flaticon.com/512/888/888846.png" alt="Chrome" width="48" height="48"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/281/281760.png" alt="GoogleDocs" width="48" height="48"/>
 </div>
 
 ### 🎨 User Interface:
