@@ -10,7 +10,7 @@
 
 ### 🌐 Frontend Development:
 <div style="display:flex; gap:5px">
-  <img src="https://skillicons.dev/icons?i=react,next,apollo" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,next,apollo,redux" alt="Frontend" />
   <img height="48" width="48" src="https://raw.githubusercontent.com/pmndrs/zustand/main/examples/demo/public/logo192.png" alt="Zustand" />
 </div>
 
@@ -45,14 +45,14 @@
 
 ### ✅ Testing libraries:
 <div style="display:flex; gap:5px">
-  <img src="https://skillicons.dev/icons?i=jest" alt="Testing libraries" />
+  <img src="https://skillicons.dev/icons?i=jest,cypress" alt="Testing libraries" />
   <img height="48" width="48" src="https://avatars.githubusercontent.com/u/49996085" alt="React Testing Library"/>
   <img height="48" width="48" src="https://avatars.githubusercontent.com/u/22632046" alt="Storybook"/>
 </div>
 
 ### ⚙️ Build tools:
 <div style="display:flex; gap:5px">
-  <img src="https://skillicons.dev/icons?i=webpack" alt="Build tools" />
+  <img src="https://skillicons.dev/icons?i=webpack,vite" alt="Build tools" />
 </div>
 
 ### 💾 Databases:
